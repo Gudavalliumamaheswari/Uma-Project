@@ -10,7 +10,7 @@ This project details the it helps to prevent diseases improve quality of life . 
 
 Project demo Links:
 
-Github Reposistory:
+Github Reposistory: https://github.com/Umagudavalli/Uma-Project
 
 Github project Link:
 
