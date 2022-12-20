@@ -10,11 +10,11 @@ This project details the it helps to prevent diseases improve quality of life . 
 
 Project demo Links:
 
-Github Reposistory:https:
+Github Reposistory:
 
-Github project Link:https:
+Github project Link:
 
-Azure project Link:https:
+Azure project Link:https: https://kind-desert-090dd0800.2.azurestaticapps.net
 
 Azure Skills used:
 
