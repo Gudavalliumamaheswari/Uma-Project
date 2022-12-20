@@ -4,9 +4,8 @@ Proejct Name: Fashion mantra
 
 Abstract:
 
-The aim of the project is to provide more health condition and wellness to the people . It is the analysis to identify key characteristics in daily life 
-it was used to improve the physical health condition in food . It the project for prevention and illness . 
-This project details the it helps to prevent diseases improve quality of life . The main aim of this project is to improve health and well being
+Fashion website can tell us about the popular aesthetic expression. It is something that is vogue. Fashion appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle. Further more fashion is an industry supported expression. In this website we provide a bot which helps you to resolve your queries on fashion.
+
 
 Project demo Links:
 
