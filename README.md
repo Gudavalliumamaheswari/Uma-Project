@@ -12,7 +12,7 @@ Project demo Links:
 
 Github Reposistory: https://github.com/Umagudavalli/Uma-Project
 
-Github project Link:
+Github project Link: https://umagudavalli.github.io/Uma-Project/
 
 Azure project Link:https: https://kind-desert-090dd0800.2.azurestaticapps.net
 
