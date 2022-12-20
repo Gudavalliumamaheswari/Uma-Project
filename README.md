@@ -7,7 +7,7 @@ Abstract:
 Fashion website can tell us about the popular aesthetic expression. It is something that is vogue. Fashion appears in clothing, footwear, accessories, makeup, hairstyles, lifestyle. Further more fashion is an industry supported expression. In this website we provide a bot which helps you to resolve your queries on fashion.
 
 
-Project demo Links:
+Project demo Links: https://youtu.be/jkNs7JgZP9Y
 
 Github Reposistory: https://github.com/Umagudavalli/Uma-Project
 
